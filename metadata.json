@@ -1,0 +1,5 @@
+{
+  "name": "Physique Freak GYM",
+  "description": "A modern, professional website for Physique Freak GYM, a women-owned gym in Lahore, Pakistan, featuring personal training, group classes, and state-of-the-art facilities.",
+  "requestFramePermissions": ["geolocation"]
+}
